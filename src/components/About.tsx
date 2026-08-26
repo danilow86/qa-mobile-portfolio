@@ -4,7 +4,7 @@ export default function About() {
       <div className="grid gap-12 md:grid-cols-2">
         <div>
           <p className="text-sm uppercase tracking-[0.3em] text-zinc-500">
-            About
+            About Me
           </p>
 
           <h2 className="mt-4 text-3xl font-bold sm:text-4xl">
