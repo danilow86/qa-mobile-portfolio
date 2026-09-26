@@ -25,7 +25,7 @@ export default function Hero() {
         </a>
 
         <a
-          href="https://github.com"
+          href="https://github.com/danilow86"
           target="_blank"
           rel="noopener noreferrer"
           className="rounded-full border border-zinc-700 px-6 py-3 text-center font-medium transition hover:bg-zinc-900"
