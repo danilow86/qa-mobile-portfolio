@@ -8,7 +8,7 @@ export default function About() {
           </p>
 
           <h2 className="mt-4 text-3xl font-bold sm:text-4xl">
-            Quality meets engineering.
+            Quality meets engineering
           </h2>
         </div>
 
