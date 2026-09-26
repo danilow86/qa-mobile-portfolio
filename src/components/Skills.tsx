@@ -5,6 +5,7 @@ const skills = {
     "Mobile Testing",
     "Regression Testing",
     "Functional Testing",
+    "Non Functional Testing"
   ],
 
   Mobile: [
