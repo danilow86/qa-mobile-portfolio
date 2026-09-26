@@ -7,7 +7,7 @@ export default function Contact() {
         </p>
 
         <h2 className="mt-4 max-w-2xl text-4xl font-bold sm:text-5xl">
-          Let's build better software.
+          Let&apos;s build better software.
         </h2>
 
         <p className="mt-6 max-w-xl text-zinc-400">
@@ -16,10 +16,12 @@ export default function Contact() {
         </p>
 
         <a
-          href="mailto:your@email.com"
+          href="https://outlook.office.com/mail/deeplink/compose?subject=Portfolio%20inquiry"
+          target="_blank"
+          rel="noopener noreferrer"
           className="mt-8 inline-block rounded-full bg-white px-6 py-3 font-medium text-black"
         >
-          Get in touch
+          Send an email
         </a>
       </div>
     </section>
